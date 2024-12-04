@@ -3,8 +3,8 @@ This is is a repository for the analysis of neuroimaging data (from Neurosynth) 
 The notebook: "homea.ipynb" uses functional MRI data of the NIFTI format, showing the related brain areas associated with psychosis and structural MRI data of the same format. 
 
 Python packages used: 
-glob 
-nilearn 
-nibabel
-numpy
-matplotlib.pyplot
+glob, 
+nilearn, 
+nibabel,
+numpy,
+matplotlib.pyplot,
